@@ -1,0 +1,22 @@
+{
+  "name": "day19",
+  "version": "1.0.0",
+  "description": "javaScript30",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjimen13/day19.git"
+  },
+  "author": "sjimen13",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  },
+  "bugs": {
+    "url": "https://github.com/sjimen13/day19/issues"
+  },
+  "homepage": "https://github.com/sjimen13/day19#readme"
+}
